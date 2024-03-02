@@ -31,43 +31,8 @@ These instructions will help you set up and run the project on your local machin
 
 - Node.js and npm should be installed on your machine.
 
-### Installation
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
-
-2. Change to the project directory:
-
-   ```bash
-   cd your-repository
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-### Development
-
-To run the development server, use the following command:
-
-```bash
-npm run dev
-```
-
-This will start the development server, and you can access your application at [http://localhost:3000](http://localhost:3000).
-
-### Build
-
-To build the production version of the application, use the following command:
-
-```bash
-npm run build
-```
 
 ## Tech Stack
 
